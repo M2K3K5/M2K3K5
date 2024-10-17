@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M2K3k5</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m2k3k5" alt="m2k3k5" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m2k3k5&theme=algolia" alt="m2k3k5" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
@@ -20,8 +20,8 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats-m2k3k5s-projects.vercel.app/api/top-langs?username=m2k3k5&show_icons=true&locale=en&layout=compact" alt="m2k3k5" /></p>
+<p><img align="left" src="https://github-readme-stats-m2k3k5s-projects.vercel.app/api/top-langs?username=m2k3k5&show_icons=true&locale=en&layout=compact&theme=algolia" alt="m2k3k5" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-m2k3k5s-projects.vercel.app/api?username=m2k3k5&show_icons=true&locale=en" alt="m2k3k5" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-m2k3k5s-projects.vercel.app/api?username=m2k3k5&show_icons=true&locale=en&theme=algolia" alt="m2k3k5" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m2k3k5&" alt="m2k3k5" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m2k3k5&theme=algolia" alt="m2k3k5" /></p>
