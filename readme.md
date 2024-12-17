@@ -22,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats-m2k3k5s-projects.vercel.app/api/top-langs?username=m2k3k5&show_icons=true&locale=en&layout=compact&theme=algolia" alt="m2k3k5" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-m2k3k5s-projects.vercel.app/api?username=m2k3k5&show_icons=true&locale=en&theme=algolia" alt="m2k3k5" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m2k3k5&theme=algolia" alt="m2k3k5" /></p>
